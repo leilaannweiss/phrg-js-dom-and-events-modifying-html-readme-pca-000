@@ -49,4 +49,7 @@ The `$` is just a function — it's equivalent to `jQuery` (which is also a func
 
 Don't worry too much about the mechanics of these selectors and functions, we'll go over those in way more detail. Just notice that the text appeared on the screen, even though we didn't explicitly add it between the `p` tags.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-modifying-html-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-modifying-html-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Modify HTML With jQuery</p>
